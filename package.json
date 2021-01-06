@@ -1,0 +1,16 @@
+{
+  "name": "transponder_simulator",
+  "version": "1.0.0",
+  "description": "A mock for simulate position of vehicule in a rallye",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "author": "Julien Hovelaque",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "superagent": "^6.1.0"
+  }
+}
